@@ -74,4 +74,4 @@ The move by the computer should probably be random if the previous checks turn o
 - [ ] Fill out your module retrospective form [here](https://forms.lambdaschool.com/module-retrospective) with a link to your PR
 
 
-Elosiel Guedes
+Elosiel Guedes / Nany
